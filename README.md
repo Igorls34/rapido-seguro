@@ -32,7 +32,8 @@ Neste projeto, apliquei e consolidei os seguintes conhecimentos:
 ---
 
 ## 👨‍💻 Autor
-**Seu Nome Aqui**
+**IgorDev**
 *Desenvolvedor WordPress em evolução*
+
 
 > *Este é um projeto de estudo. Sinta-se à vontade para entrar em contato para trocarmos experiências sobre WordPress e desenvolvimento web!*
